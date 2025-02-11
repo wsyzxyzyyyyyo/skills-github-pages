@@ -1,6 +1,5 @@
 theme: minima
-Description: a demo for github pages
----
-title: "Welcome to Denny's blog."
-date: 2025-2-10
----
+title: "A Demo for Github Pages"
+Description: This is my first demo for github pages.
+author: Denny Xu
+date: 2025-2-11
